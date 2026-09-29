@@ -1,0 +1,36 @@
+{
+  "title": "IMG_6357.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1708017590",
+    "formatted": "15 de fev. de 2024, 17:19:50 UTC"
+  },
+  "geoData": {
+    "latitude": -2.5223166999999997,
+    "longitude": -54.931491699999995,
+    "altitude": 13.39178085335904,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -2.5223166999999997,
+    "longitude": -54.931491699999995,
+    "altitude": 13.39178085335904,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Shadow Power"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMWXRBu-wVPKLM9UOIYT1xWDGJ9qYZauYeyuyac",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200207_150756.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1581098876",
+    "formatted": "7 de fev. de 2020, 18:07:56 UTC"
+  },
+  "geoData": {
+    "latitude": -34.639357,
+    "longitude": -58.361759000000006,
+    "altitude": 27.897,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -34.639357,
+    "longitude": -58.361759000000006,
+    "altitude": 27.897,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMsE1LhjKmdF7Dz4Irxl_-cvV7nscV9JW9h4apA",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

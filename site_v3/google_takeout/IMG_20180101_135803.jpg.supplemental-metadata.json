@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20180101_135803.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1514822283",
+    "formatted": "1 de jan. de 2018, 15:58:03 UTC"
+  },
+  "geoData": {
+    "latitude": -22.941843,
+    "longitude": -42.6659703,
+    "altitude": 3.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -22.941843,
+    "longitude": -42.6659703,
+    "altitude": 3.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Shadow Power"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPnFeisVQpU96rPQLRRm70bs2XrTYKGrB9a_NfY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

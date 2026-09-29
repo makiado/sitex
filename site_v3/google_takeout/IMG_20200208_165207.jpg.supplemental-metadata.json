@@ -1,0 +1,39 @@
+{
+  "title": "IMG_20200208_165207.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1581191526",
+    "formatted": "8 de fev. de 2020, 19:52:06 UTC"
+  },
+  "geoData": {
+    "latitude": -38.087970999999996,
+    "longitude": -57.543898,
+    "altitude": 7.268,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -38.087970999999996,
+    "longitude": -57.543898,
+    "altitude": 7.268,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Shadow Power"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMIYpgI89MjnEgHr1g-8wSwp_nIofbioD3kFwf2",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

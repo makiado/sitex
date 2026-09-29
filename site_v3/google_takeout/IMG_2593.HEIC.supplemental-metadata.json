@@ -1,0 +1,33 @@
+{
+  "title": "IMG_2593.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1675635052",
+    "formatted": "5 de fev. de 2023, 22:10:52 UTC"
+  },
+  "geoData": {
+    "latitude": -31.7071083,
+    "longitude": -52.303938900000006,
+    "altitude": 18.48451893551689,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -31.7071083,
+    "longitude": -52.303938900000006,
+    "altitude": 18.48451893551689,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNyu-wgS992VglrSX9V4cv8NljWZ6rrIQduqNuM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

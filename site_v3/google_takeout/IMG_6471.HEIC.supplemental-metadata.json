@@ -1,0 +1,33 @@
+{
+  "title": "IMG_6471.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1708281525",
+    "formatted": "18 de fev. de 2024, 18:38:45 UTC"
+  },
+  "geoData": {
+    "latitude": 0.1454417,
+    "longitude": -51.041916699999994,
+    "altitude": 0.6552148802446067,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.1454417,
+    "longitude": -51.041916699999994,
+    "altitude": 0.6552148802446067,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOF2WhOE7pR5dy8nib2ZOBApyy0DgP8WIObeTXo",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

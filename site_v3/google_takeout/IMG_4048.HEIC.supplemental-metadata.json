@@ -1,0 +1,33 @@
+{
+  "title": "IMG_4048.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1686429504",
+    "formatted": "10 de jun. de 2023, 20:38:24 UTC"
+  },
+  "geoData": {
+    "latitude": -22.9289389,
+    "longitude": -42.8265028,
+    "altitude": 3.538625718859311,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -22.9289389,
+    "longitude": -42.8265028,
+    "altitude": 3.538625718859311,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM7yU-InHnUjPJXIGf5RENU2GLlvTVvOQl0JwTp",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "IMG_0286.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1736895991",
+    "formatted": "14 de jan. de 2025, 23:06:31 UTC"
+  },
+  "geoData": {
+    "latitude": -0.2208,
+    "longitude": -78.5077,
+    "altitude": 2793.52,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -0.2208,
+    "longitude": -78.5077,
+    "altitude": 2793.52,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Shadow Power"
+  }],
+  "favorited": true,
+  "url": "https://photos.google.com/photo/AF1QipM2nBSthETB7xC-4wtBxKmF62mIhGDlrMQK9BoF",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

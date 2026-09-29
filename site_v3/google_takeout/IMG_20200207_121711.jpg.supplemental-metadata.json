@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200207_121711.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1581088631",
+    "formatted": "7 de fev. de 2020, 15:17:11 UTC"
+  },
+  "geoData": {
+    "latitude": -34.607903,
+    "longitude": -58.370999999999995,
+    "altitude": 35.989,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -34.607903,
+    "longitude": -58.370999999999995,
+    "altitude": 35.989,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMSWl8tGWYVlUM-GYoqKD-j70pfYC8OGyPTxEN7",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

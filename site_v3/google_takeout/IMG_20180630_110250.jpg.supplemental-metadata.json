@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20180630_110250.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1530367370",
+    "formatted": "30 de jun. de 2018, 14:02:50 UTC"
+  },
+  "geoData": {
+    "latitude": -34.306353099999995,
+    "longitude": -57.237176299999994,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -34.306353099999995,
+    "longitude": -57.237176299999994,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNAGxqXjsDZ2QU9hJcKqDZqk3Buly-xPjaQr-It",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

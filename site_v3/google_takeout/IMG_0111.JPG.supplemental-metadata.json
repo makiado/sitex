@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0111.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1654048610",
+    "formatted": "1 de jun. de 2022, 01:56:50 UTC"
+  },
+  "geoData": {
+    "latitude": -22.9744444,
+    "longitude": -43.0363889,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -22.9744444,
+    "longitude": -43.0363889,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN74B5Ge29llKwW-PgCRKBfQLQV0y56pggyFEJO",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

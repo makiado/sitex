@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20190615_164237.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1560627757",
+    "formatted": "15 de jun. de 2019, 19:42:37 UTC"
+  },
+  "geoData": {
+    "latitude": -29.394582,
+    "longitude": -50.876813999999996,
+    "altitude": 846.631,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -29.394582,
+    "longitude": -50.876813999999996,
+    "altitude": 846.631,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN2FGJWrmqq7nAvSHnTYR-AXk8m8iBwFDcTIFOo",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

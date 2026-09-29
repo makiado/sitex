@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0817.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1737411440",
+    "formatted": "20 de jan. de 2025, 22:17:20 UTC"
+  },
+  "geoData": {
+    "latitude": -16.4976,
+    "longitude": -68.1614,
+    "altitude": 3994.2,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -16.4976,
+    "longitude": -68.1614,
+    "altitude": 3994.2,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Shadow Power"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNigHuGWYRjI47IV9Vdxyj64mhxU_XNzPzhGj_N",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

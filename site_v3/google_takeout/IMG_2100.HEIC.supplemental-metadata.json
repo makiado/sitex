@@ -1,0 +1,33 @@
+{
+  "title": "IMG_2100.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1670549301",
+    "formatted": "9 de dez. de 2022, 01:28:21 UTC"
+  },
+  "geoData": {
+    "latitude": -31.756208299999997,
+    "longitude": -52.3349306,
+    "altitude": 12.635784716516023,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -31.756208299999997,
+    "longitude": -52.3349306,
+    "altitude": 12.635784716516023,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNqNsdg-I9EQ64MdTfm_xtQ1__6d8AkzG9exWrl",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

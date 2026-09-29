@@ -1,0 +1,33 @@
+{
+  "title": "IMG_5834.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1703607521",
+    "formatted": "26 de dez. de 2023, 16:18:41 UTC"
+  },
+  "geoData": {
+    "latitude": -22.9993889,
+    "longitude": -42.0111278,
+    "altitude": 1.813442230341736,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -22.9993889,
+    "longitude": -42.0111278,
+    "altitude": 1.813442230341736,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNO38LuEam33vVqHUO6-cUqfey_rabpu_VH3RdR",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

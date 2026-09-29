@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200208_225348.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1581213228",
+    "formatted": "9 de fev. de 2020, 01:53:48 UTC"
+  },
+  "geoData": {
+    "latitude": -34.590109999999996,
+    "longitude": -58.370354999999996,
+    "altitude": 22.167,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -34.590109999999996,
+    "longitude": -58.370354999999996,
+    "altitude": 22.167,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNOwF9xet9fwIn2GAb-R_q2viNdnpN3YHfJiEfg",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

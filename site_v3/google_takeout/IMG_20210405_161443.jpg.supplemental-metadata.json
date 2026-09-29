@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20210405_161443.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1617650083",
+    "formatted": "5 de abr. de 2021, 19:14:43 UTC"
+  },
+  "geoData": {
+    "latitude": -31.740838000000004,
+    "longitude": -52.278298,
+    "altitude": 13.634,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -31.740838000000004,
+    "longitude": -52.278298,
+    "altitude": 13.634,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOs-6ripVbzmmBUy_fcAxc4jiJ54dkX0xl0uVom",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

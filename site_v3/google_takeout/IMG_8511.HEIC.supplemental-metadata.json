@@ -1,0 +1,33 @@
+{
+  "title": "IMG_8511.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1726201002",
+    "formatted": "13 de set. de 2024, 04:16:42 UTC"
+  },
+  "geoData": {
+    "latitude": -23.558088899999998,
+    "longitude": -46.660716699999995,
+    "altitude": 822.1346094473603,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -23.558088899999998,
+    "longitude": -46.660716699999995,
+    "altitude": 822.1346094473603,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOFUexJWk7VpAAw5kVhJP7kuqrA0VcCAWKgo6x5",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

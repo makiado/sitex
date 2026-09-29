@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20220316_182352.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1647465831",
+    "formatted": "16 de mar. de 2022, 21:23:51 UTC"
+  },
+  "geoData": {
+    "latitude": -9.6679849,
+    "longitude": -35.7134819,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -9.6679849,
+    "longitude": -35.7134819,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOQycYLFQXkownfBvMQ-S1SWm-ddolt2fyFlleD",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

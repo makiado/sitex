@@ -1,0 +1,33 @@
+{
+  "title": "IMG_5917.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1703799697",
+    "formatted": "28 de dez. de 2023, 21:41:37 UTC"
+  },
+  "geoData": {
+    "latitude": -22.930699999999998,
+    "longitude": -42.863,
+    "altitude": 3.16,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -22.930699999999998,
+    "longitude": -42.863,
+    "altitude": 3.16,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMUw9njTqPFeNi2F7YZwEmnuw2dF3L8VcyN8-hn",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

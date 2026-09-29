@@ -1,0 +1,33 @@
+{
+  "title": "IMG_0386.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1657123025",
+    "formatted": "6 de jul. de 2022, 15:57:05 UTC"
+  },
+  "geoData": {
+    "latitude": -23.047852799999998,
+    "longitude": -43.1353722,
+    "altitude": 3566.4486166007905,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -23.047852799999998,
+    "longitude": -43.1353722,
+    "altitude": 3566.4486166007905,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOeKF7_ONY8EAOiJuOmioLDwLmo6sF0nw6G8IoY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

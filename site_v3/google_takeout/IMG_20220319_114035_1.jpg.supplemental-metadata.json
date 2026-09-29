@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20220319_114035_1.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1647700835",
+    "formatted": "19 de mar. de 2022, 14:40:35 UTC"
+  },
+  "geoData": {
+    "latitude": -10.917153299999999,
+    "longitude": -37.0469971,
+    "altitude": 18.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -10.917153299999999,
+    "longitude": -37.0469971,
+    "altitude": 18.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOuAZffJlc4Da82QJrehiROWZ2UC8GLa5X47efL",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

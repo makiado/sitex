@@ -1,0 +1,33 @@
+{
+  "title": "IMG_3343.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1680872593",
+    "formatted": "7 de abr. de 2023, 13:03:13 UTC"
+  },
+  "geoData": {
+    "latitude": -32.8704861,
+    "longitude": -70.40248059999999,
+    "altitude": 1088.8892355694227,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -32.8704861,
+    "longitude": -70.40248059999999,
+    "altitude": 1088.8892355694227,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOM6uKSmPvdXnOFeUl1suM-38eHTAj_sZegx5tW",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

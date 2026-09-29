@@ -1,0 +1,34 @@
+{
+  "title": "IMG_5140.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1768285786",
+    "formatted": "13 de jan. de 2026, 06:29:46 UTC"
+  },
+  "geoData": {
+    "latitude": 31.0482111,
+    "longitude": -3.9906028,
+    "altitude": 696.3427429427929,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 31.0482111,
+    "longitude": -3.9906028,
+    "altitude": 696.3427429427929,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "favorited": true,
+  "url": "https://photos.google.com/photo/AF1QipNzMMCXxhC7IcUy9ufPuhYl68RmXZR3SYLaAM9s",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

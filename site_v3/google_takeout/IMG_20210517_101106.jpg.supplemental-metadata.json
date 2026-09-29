@@ -1,0 +1,37 @@
+{
+  "title": "IMG_20210517_101106.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1621257066",
+    "formatted": "17 de mai. de 2021, 13:11:06 UTC"
+  },
+  "geoData": {
+    "latitude": -25.600165999999998,
+    "longitude": -54.484673,
+    "altitude": 240.094,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -25.600165999999998,
+    "longitude": -54.484673,
+    "altitude": 240.094,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "favorited": true,
+  "url": "https://photos.google.com/photo/AF1QipOVg2ulWH7ZNjSM-bMAHy28SiIUnnse9npcHCfP",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

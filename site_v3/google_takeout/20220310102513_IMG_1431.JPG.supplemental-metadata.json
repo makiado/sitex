@@ -1,0 +1,32 @@
+{
+  "title": "20220310102513_IMG_1431.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1646918713",
+    "formatted": "10 de mar. de 2022, 13:25:13 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Shadow Power"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPrfdvB9rUin58OjydWe1gItZ8x79YBo0jPiuhJ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Canon EOS M50m2"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

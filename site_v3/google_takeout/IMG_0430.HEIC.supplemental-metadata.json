@@ -1,0 +1,36 @@
+{
+  "title": "IMG_0430.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1657433459",
+    "formatted": "10 de jul. de 2022, 06:10:59 UTC"
+  },
+  "geoData": {
+    "latitude": -30.8512889,
+    "longitude": -51.804927799999994,
+    "altitude": 37.9374346722413,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -30.8512889,
+    "longitude": -51.804927799999994,
+    "altitude": 37.9374346722413,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Shadow Power"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMFvQY4pgvTGwjhnYJ25JPB4bVOrjMu46WFShOb",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

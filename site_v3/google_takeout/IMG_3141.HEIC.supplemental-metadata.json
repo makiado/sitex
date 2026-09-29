@@ -1,0 +1,33 @@
+{
+  "title": "IMG_3141.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1680712127",
+    "formatted": "5 de abr. de 2023, 16:28:47 UTC"
+  },
+  "geoData": {
+    "latitude": -33.435122199999995,
+    "longitude": -70.6354528,
+    "altitude": 579.5198522622345,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -33.435122199999995,
+    "longitude": -70.6354528,
+    "altitude": 579.5198522622345,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipP8w2tBHzp6KOT2q7mLwJLBwdF7b9xhzOy5dxiH",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

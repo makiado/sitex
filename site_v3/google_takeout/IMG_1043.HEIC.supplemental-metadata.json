@@ -1,0 +1,33 @@
+{
+  "title": "IMG_1043.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1660251026",
+    "formatted": "11 de ago. de 2022, 20:50:26 UTC"
+  },
+  "geoData": {
+    "latitude": -31.401486100000003,
+    "longitude": -52.6959806,
+    "altitude": 477.5461077844311,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -31.401486100000003,
+    "longitude": -52.6959806,
+    "altitude": 477.5461077844311,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPJG94S_NriVGzKZ2LftyQ4_I-BI-hONpbKsvjZ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

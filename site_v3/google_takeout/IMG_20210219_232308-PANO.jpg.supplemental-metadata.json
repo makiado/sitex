@@ -1,0 +1,33 @@
+{
+  "title": "IMG_20210219_232308-PANO.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1613787793",
+    "formatted": "20 de fev. de 2021, 02:23:13 UTC"
+  },
+  "geoData": {
+    "latitude": -23.612966999999998,
+    "longitude": -46.702098,
+    "altitude": 741.385,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -23.612966999999998,
+    "longitude": -46.702098,
+    "altitude": 741.385,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipP8ULQRMtjfKMkZNkBYL3zPMyBJl36bhBlkjozy",
+  "googlePhotosOrigin": {
+    "composition": {
+      "type": "AUTO"
+    }
+  }
+}

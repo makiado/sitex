@@ -1,0 +1,33 @@
+{
+  "title": "IMG_3158.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1680742185",
+    "formatted": "6 de abr. de 2023, 00:49:45 UTC"
+  },
+  "geoData": {
+    "latitude": -33.4385556,
+    "longitude": -70.64120559999999,
+    "altitude": 577.3090858416946,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -33.4385556,
+    "longitude": -70.64120559999999,
+    "altitude": 577.3090858416946,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMCI24myB7ykV4DRHn2g28k_9volbREDSwYLKa_",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

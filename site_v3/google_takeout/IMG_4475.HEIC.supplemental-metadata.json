@@ -1,0 +1,33 @@
+{
+  "title": "IMG_4475.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1767854819",
+    "formatted": "8 de jan. de 2026, 06:46:59 UTC"
+  },
+  "geoData": {
+    "latitude": 41.8917528,
+    "longitude": 12.492363899999999,
+    "altitude": 35.364221364221365,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.8917528,
+    "longitude": 12.492363899999999,
+    "altitude": 35.364221364221365,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOfAT6Zgw3NNpJq4ttlEbI9FNidJf87N87_vBC4",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

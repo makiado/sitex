@@ -1,0 +1,33 @@
+{
+  "title": "94DB0918-B10A-4A38-8D35-57C2A2740816.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1680964293",
+    "formatted": "8 de abr. de 2023, 14:31:33 UTC"
+  },
+  "geoData": {
+    "latitude": -31.4023056,
+    "longitude": -52.6966333,
+    "altitude": 474.651611328125,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -31.4023056,
+    "longitude": -52.6966333,
+    "altitude": 474.651611328125,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPA4fcD_dN3lJ7oBAmMPsUOZTOgo49USiP-PGTG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "IMG_5687.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1768832736",
+    "formatted": "19 de jan. de 2026, 14:25:36 UTC"
+  },
+  "geoData": {
+    "latitude": 51.507838899999996,
+    "longitude": -0.0762139,
+    "altitude": 9.73633064044023,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 51.507838899999996,
+    "longitude": -0.0762139,
+    "altitude": 9.73633064044023,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOgioNWNov1evCpDJgSwVS9XQTGhp0P189nltyu",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}
