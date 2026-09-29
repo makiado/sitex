@@ -1,0 +1,29 @@
+{
+  "title": "1AF6FB83-0692-4AD3-9C6B-C931B90C9A28.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1737332858",
+    "formatted": "20 de jan. de 2025, 00:27:38 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Shadow Power"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipN-ES96IL9irnQIiPbTbrJqJ-csalRmf1gVgQOj",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

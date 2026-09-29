@@ -1,0 +1,33 @@
+{
+  "title": "IMG_5222.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1768342388",
+    "formatted": "13 de jan. de 2026, 22:13:08 UTC"
+  },
+  "geoData": {
+    "latitude": 31.601666700000003,
+    "longitude": -8.0265972,
+    "altitude": 471.5034731869964,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 31.601666700000003,
+    "longitude": -8.0265972,
+    "altitude": 471.5034731869964,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipO5ToAe7QPgRxcFKRcBudW4uIMEdeJ2rYi7yXr8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "folders": {
+    "input": "entrada",
+    "takeout": "google_takeout",
+    "library": "biblioteca",
+    "archive": "arquivadas",
+    "pending": "pendentes/localizacao",
+    "data": "data",
+    "logs": "logs"
+  },
+  "catalog_file": "data/photos.json",
+  "geocoder": {
+    "enabled": true,
+    "url": "https://nominatim.openstreetmap.org/reverse",
+    "user_agent": "site-memorias/1.0",
+    "language": "pt-BR",
+    "delay_seconds": 1.05,
+    "cache_file": "data/geocache.json"
+  }
+}

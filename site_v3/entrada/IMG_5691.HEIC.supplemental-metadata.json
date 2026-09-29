@@ -1,0 +1,33 @@
+{
+  "title": "IMG_5691.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1703537666",
+    "formatted": "25 de dez. de 2023, 20:54:26 UTC"
+  },
+  "geoData": {
+    "latitude": -22.92285,
+    "longitude": -43.0947889,
+    "altitude": 5.166911945057641,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -22.92285,
+    "longitude": -43.0947889,
+    "altitude": 5.166911945057641,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMG2mM6Q-cTCed4qPPlyzx7mmPO5zylXkUMDpmR",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

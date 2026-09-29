@@ -1,0 +1,33 @@
+{
+  "title": "IMG_1088.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1737626043",
+    "formatted": "23 de jan. de 2025, 09:54:03 UTC"
+  },
+  "geoData": {
+    "latitude": -22.4349,
+    "longitude": -67.7571,
+    "altitude": 4843.72,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -22.4349,
+    "longitude": -67.7571,
+    "altitude": 4843.72,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOoBQRImCQFOouwCigMH4RuHjANGt-eJa5ATXzn",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20180218_095357.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1518958437",
+    "formatted": "18 de fev. de 2018, 12:53:57 UTC"
+  },
+  "geoData": {
+    "latitude": -31.1533476,
+    "longitude": -50.809067899999995,
+    "altitude": 11.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -31.1533476,
+    "longitude": -50.809067899999995,
+    "altitude": 11.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNwh26wHmN-x3GkegnbJDZ_GtjkVRKmZKi3d8e0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

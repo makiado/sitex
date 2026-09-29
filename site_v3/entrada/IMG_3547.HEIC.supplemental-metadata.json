@@ -1,0 +1,33 @@
+{
+  "title": "IMG_3547.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1681066244",
+    "formatted": "9 de abr. de 2023, 18:50:44 UTC"
+  },
+  "geoData": {
+    "latitude": -34.0627861,
+    "longitude": -70.1416778,
+    "altitude": 6567.140684410647,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -34.0627861,
+    "longitude": -70.1416778,
+    "altitude": 6567.140684410647,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOc1KqdzaFdHJKnEoJ8Muctdy6HmFTqT6vW4mYY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

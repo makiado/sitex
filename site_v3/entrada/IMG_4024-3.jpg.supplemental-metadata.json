@@ -1,0 +1,30 @@
+{
+  "title": "IMG_4024-3.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1529099733",
+    "formatted": "15 de jun. de 2018, 21:55:33 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Shadow Power"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPG8VaKeEB1uqTV-SU-ZWDNvI4kc-TQhhIIeUaz",
+  "googlePhotosOrigin": {
+    "webUpload": {
+      "computerUpload": {
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "IMG_4358.CR3",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1737288512",
+    "formatted": "19 de jan. de 2025, 12:08:32 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Shadow Power"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNYsOXefqqjaY9riJ2J4oPH5rSGURsMaGlXSZC_",
+  "googlePhotosOrigin": {
+    "webUpload": {
+      "computerUpload": {
+      }
+    }
+  }
+}

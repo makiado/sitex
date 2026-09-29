@@ -1,0 +1,29 @@
+{
+  "title": "20220304111212_IMG_0897.JPG",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1646403132",
+    "formatted": "4 de mar. de 2022, 14:12:12 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOexQ27mPK7kCu340pV5mbgzxCrCXOw8LjQ_aN9",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": "Canon EOS M50m2"
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "IMG_6222.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1768911103",
+    "formatted": "20 de jan. de 2026, 12:11:43 UTC"
+  },
+  "geoData": {
+    "latitude": 51.521255599999996,
+    "longitude": -0.12614999999999998,
+    "altitude": 26.693401329006335,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 51.521255599999996,
+    "longitude": -0.12614999999999998,
+    "altitude": 26.693401329006335,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "favorited": true,
+  "url": "https://photos.google.com/photo/AF1QipPUqb2eguFXM8lAnNB1uaf2-PPLIp-Hb-y_PaLy",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

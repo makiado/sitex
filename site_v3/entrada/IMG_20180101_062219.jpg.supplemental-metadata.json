@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20180101_062219.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1514794939",
+    "formatted": "1 de jan. de 2018, 08:22:19 UTC"
+  },
+  "geoData": {
+    "latitude": -22.9261995,
+    "longitude": -42.8625811,
+    "altitude": 4.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -22.9261995,
+    "longitude": -42.8625811,
+    "altitude": 4.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNpMiZawJfszMUsiQgrV3xS7GHvIhPIKm26Objv",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

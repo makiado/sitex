@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20190503_165416.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1556913256",
+    "formatted": "3 de mai. de 2019, 19:54:16 UTC"
+  },
+  "geoData": {
+    "latitude": -34.957443999999995,
+    "longitude": -54.937011999999996,
+    "altitude": 20.159,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -34.957443999999995,
+    "longitude": -54.937011999999996,
+    "altitude": 20.159,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM_num2ZZ_6NyU3DdqYtyc9z-xutgCz3d23d1RS",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

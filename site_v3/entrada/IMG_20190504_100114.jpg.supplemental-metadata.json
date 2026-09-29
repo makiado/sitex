@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20190504_100114.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1556974874",
+    "formatted": "4 de mai. de 2019, 13:01:14 UTC"
+  },
+  "geoData": {
+    "latitude": -34.47309,
+    "longitude": -57.85177599999999,
+    "altitude": 27.605,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -34.47309,
+    "longitude": -57.85177599999999,
+    "altitude": 27.605,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN0cHB01v1gLK81IX-VHHkF-2qjnVlZbF2v81hn",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

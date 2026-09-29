@@ -1,0 +1,33 @@
+{
+  "title": "IMG_6177.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1707497292",
+    "formatted": "9 de fev. de 2024, 16:48:12 UTC"
+  },
+  "geoData": {
+    "latitude": -29.194436099999997,
+    "longitude": -51.187936099999995,
+    "altitude": 752.8516503445775,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -29.194436099999997,
+    "longitude": -51.187936099999995,
+    "altitude": 752.8516503445775,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOuHROYaM7xYKOCc5fORmGva32punVwPPBpr6Z3",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

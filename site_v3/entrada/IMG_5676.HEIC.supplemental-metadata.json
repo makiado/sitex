@@ -1,0 +1,33 @@
+{
+  "title": "IMG_5676.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1703537298",
+    "formatted": "25 de dez. de 2023, 20:48:18 UTC"
+  },
+  "geoData": {
+    "latitude": -22.906175,
+    "longitude": -43.1135472,
+    "altitude": 0.3351097106049723,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -22.906175,
+    "longitude": -43.1135472,
+    "altitude": 0.3351097106049723,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOLgBaG6RBH8jIeCoDY43uVCOJCSVaU7wJgc_zG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

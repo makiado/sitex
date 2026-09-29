@@ -1,0 +1,33 @@
+{
+  "title": "IMG_2712.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1676736948",
+    "formatted": "18 de fev. de 2023, 16:15:48 UTC"
+  },
+  "geoData": {
+    "latitude": -31.6993667,
+    "longitude": -52.1533806,
+    "altitude": 3.348537455410226,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -31.6993667,
+    "longitude": -52.1533806,
+    "altitude": 3.348537455410226,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMTHRcOANl4S4CZSvyIWKwsh9nd3V-ghyGv4R3W",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

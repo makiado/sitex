@@ -1,0 +1,33 @@
+{
+  "title": "IMG_6173.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1771357978",
+    "formatted": "17 de fev. de 2026, 19:52:58 UTC"
+  },
+  "geoData": {
+    "latitude": -23.7261639,
+    "longitude": -45.4084444,
+    "altitude": 31.35368572927597,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -23.7261639,
+    "longitude": -45.4084444,
+    "altitude": 31.35368572927597,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipP2CBY5GjKQI0njwV2q1vvN1WHarEqLrYKEa_hh",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Memórias — minha trajetória</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" onerror="this.href='https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css'">
+  <link rel="stylesheet" href="css/style.css?v=2.0">
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark">M</div>
+        <div><span class="brand-title">MEMÓRIAS</span><span class="brand-subtitle">trajetória em fotografias</span></div>
+      </div>
+      <div class="topbar-actions">
+        <button class="ghost" id="resetBtn">Visão mundial</button>
+        <span class="status" id="statusText">carregando catálogo…</span>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero" id="worldSection">
+        <div class="hero-copy">
+          <p class="eyebrow">UMA VIDA, VÁRIOS LUGARES</p>
+          <h1>Minha trajetória<br><em>em mapas e fotografias.</em></h1>
+          <p class="hero-text">Selecione um país para entrar na memória daquele lugar. Os locais sem registros permanecem fora da navegação.</p>
+        </div>
+        <div class="stats" id="stats"></div>
+        <div class="world-wrap">
+          <div id="worldMap" class="world-map"></div>
+          <div class="map-hint">Clique em um país com registros</div>
+        </div>
+      </section>
+
+      <section class="country-view" id="countrySection" hidden>
+        <div class="country-header">
+          <div>
+            <button class="back-btn" id="backBtn">← voltar ao mundo</button>
+            <p class="eyebrow" id="countryEyebrow">PAÍS</p>
+            <h2 id="countryTitle">—</h2>
+            <p class="country-meta" id="countryMeta">—</p>
+          </div>
+          <div class="filters" id="filters"></div>
+        </div>
+        <div class="country-layout">
+          <aside class="side-panel">
+            <div class="panel-title">ESTADOS / REGIÕES</div>
+            <div class="region-list" id="regionList"></div>
+            <div class="panel-title year-title">ANOS</div>
+            <div class="year-list" id="yearList"></div>
+          </aside>
+          <section class="country-main">
+            <div class="country-map-card"><div id="countryMap"></div><div class="map-note" id="mapNote"></div></div>
+            <div class="feed-head"><div><span class="eyebrow">MEMÓRIAS</span><h3 id="feedTitle">Todas as fotografias</h3></div><div id="resultCount" class="result-count">0 fotos</div></div>
+            <div class="feed" id="feed"></div>
+          </section>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div class="lightbox" id="lightbox" hidden aria-hidden="true" style="display:none">
+  <button id="lightboxClose" type="button" aria-label="Fechar imagem">×</button>
+  <img id="lightboxImg" alt="">
+</div>
+
+  <script src="js/boot.js?v=3.0"></script>
+</body>
+</html>

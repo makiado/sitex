@@ -1,0 +1,34 @@
+{
+  "title": "IMG_8475.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1726104915",
+    "formatted": "12 de set. de 2024, 01:35:15 UTC"
+  },
+  "geoData": {
+    "latitude": -23.5272944,
+    "longitude": -46.678330599999995,
+    "altitude": 765.0320699708454,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -23.5272944,
+    "longitude": -46.678330599999995,
+    "altitude": 765.0320699708454,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "favorited": true,
+  "url": "https://photos.google.com/photo/AF1QipOzXi7hN4aUhYDevwVmqmJcIOhhW1SEBo2IXzIG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "IMG_5775.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1703601297",
+    "formatted": "26 de dez. de 2023, 14:34:57 UTC"
+  },
+  "geoData": {
+    "latitude": -22.991619399999998,
+    "longitude": -42.0054056,
+    "altitude": 2.7502098069775807,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -22.991619399999998,
+    "longitude": -42.0054056,
+    "altitude": 2.7502098069775807,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNkBayJv1Pfs8Qg5NdN-7c8Jc9VPmnbk-VoVewb",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

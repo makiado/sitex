@@ -1,0 +1,34 @@
+{
+  "title": "IMG_4351.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1767719488",
+    "formatted": "6 de jan. de 2026, 17:11:28 UTC"
+  },
+  "geoData": {
+    "latitude": 38.692227800000005,
+    "longitude": -9.212774999999999,
+    "altitude": 2.8239403025759846,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 38.692227800000005,
+    "longitude": -9.212774999999999,
+    "altitude": 2.8239403025759846,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "favorited": true,
+  "url": "https://photos.google.com/photo/AF1QipP42GKV0KiGXI_OLx4D24gR9NxpJ4d-tA0udZXx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

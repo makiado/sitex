@@ -1,0 +1,29 @@
+{
+  "title": "IMG_4565.CR3",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1737556206",
+    "formatted": "22 de jan. de 2025, 14:30:06 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Shadow Power"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMk896L08nYv-vLK4Kdbt_9vRjPYQ-AqHQ43pyp",
+  "googlePhotosOrigin": {
+    "thirdPartyApp": {
+      "appName": "image.canon"
+    }
+  }
+}

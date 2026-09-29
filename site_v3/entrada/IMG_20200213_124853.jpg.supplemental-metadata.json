@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20200213_124853.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1581608933",
+    "formatted": "13 de fev. de 2020, 15:48:53 UTC"
+  },
+  "geoData": {
+    "latitude": -25.556369,
+    "longitude": -53.585715,
+    "altitude": 321.447,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -25.556369,
+    "longitude": -53.585715,
+    "altitude": 321.447,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNHz1D5uIIqcyV8ielcb-OojCMBjKdehydd0h2m",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

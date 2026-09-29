@@ -1,0 +1,33 @@
+{
+  "title": "IMG_6340.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1708010264",
+    "formatted": "15 de fev. de 2024, 15:17:44 UTC"
+  },
+  "geoData": {
+    "latitude": -2.5156083,
+    "longitude": -54.9304917,
+    "altitude": 0.2347373963406608,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -2.5156083,
+    "longitude": -54.9304917,
+    "altitude": 0.2347373963406608,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPBpmMNZ2XEzka-XG3XyKdz0vlfQoVy1SHsxR32",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

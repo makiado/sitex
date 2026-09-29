@@ -1,0 +1,33 @@
+{
+  "title": "IMG_3333.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1680865182",
+    "formatted": "7 de abr. de 2023, 10:59:42 UTC"
+  },
+  "geoData": {
+    "latitude": -33.41648610000001,
+    "longitude": -70.6072222,
+    "altitude": 628.0429722470905,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -33.41648610000001,
+    "longitude": -70.6072222,
+    "altitude": 628.0429722470905,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOKb-t_PRib25evl0zaGi4X8QbwRiyGSTlqtTKD",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

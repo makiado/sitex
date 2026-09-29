@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20180614_185134.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1529013094",
+    "formatted": "14 de jun. de 2018, 21:51:34 UTC"
+  },
+  "geoData": {
+    "latitude": -23.555598099999997,
+    "longitude": -46.6353043,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -23.555598099999997,
+    "longitude": -46.6353043,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOTpqq0zHtKHeXTIyTqAbqJDnIwB0D7h5SvSqN9",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

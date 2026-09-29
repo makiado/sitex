@@ -1,0 +1,33 @@
+{
+  "title": "IMG_8185.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1724095539",
+    "formatted": "19 de ago. de 2024, 19:25:39 UTC"
+  },
+  "geoData": {
+    "latitude": -31.4016972,
+    "longitude": -52.6991583,
+    "altitude": 449.7148093841642,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -31.4016972,
+    "longitude": -52.6991583,
+    "altitude": 449.7148093841642,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNWpBVY8g17FmRkf9ATlOypRHP43dMuITU9GNFv",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

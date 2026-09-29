@@ -1,0 +1,33 @@
+{
+  "title": "IMG_4619.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790477927",
+    "formatted": "27 de set. de 2026, 02:58:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1767970980",
+    "formatted": "9 de jan. de 2026, 15:03:00 UTC"
+  },
+  "geoData": {
+    "latitude": 41.9020167,
+    "longitude": 12.4537944,
+    "altitude": 32.35564331739763,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 41.9020167,
+    "longitude": 12.4537944,
+    "altitude": 32.35564331739763,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOg7wK2p6rGCRJg-KUWFkSL1AmTrizGKHByUxnR",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}

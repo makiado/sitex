@@ -1,0 +1,33 @@
+{
+  "title": "IMG_3192.HEIC",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1790412950",
+    "formatted": "26 de set. de 2026, 08:55:50 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1680797793",
+    "formatted": "6 de abr. de 2023, 16:16:33 UTC"
+  },
+  "geoData": {
+    "latitude": -33.4178667,
+    "longitude": -70.6098722,
+    "altitude": 615.1069747539581,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": -33.4178667,
+    "longitude": -70.6098722,
+    "altitude": 615.1069747539581,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMoam41zc_2SBkPWj23DtpE1WHp33VoYNGfhX9k",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}
