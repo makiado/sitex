@@ -2,6 +2,7 @@ from pathlib import Path
 import shutil, sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from core import *
+from google_timeline import Timeline
 
 ROOT = Path(__file__).resolve().parents[1]
 CFG = load_json(ROOT/'config.json', {})
@@ -37,7 +38,7 @@ def unique_target(target: Path):
         i += 1
 
 
-def process_one(path, catalog, existing_by_hash, takeout_index, geocoder):
+def process_one(path, catalog, existing_by_hash, takeout_index, geocoder, timeline):
     sha = sha256(path)
     if sha in existing_by_hash:
         dest = unique_target(ARCH/'duplicadas'/path.name)
@@ -47,6 +48,12 @@ def process_one(path, catalog, existing_by_hash, takeout_index, geocoder):
 
     exif = exif_info(path)
     tk = takeout_info(path, takeout_index)
+    # GPS real (EXIF/Takeout) prevalece sobre estimativas da Timeline.
+    tl = None
+    if exif.get('latitude') is None and tk.get('latitude') is None:
+        tl = timeline.resolve(exif.get('date') or tk.get('date'))
+        if tl:
+            tk = {**tk, 'latitude': tl['latitude'], 'longitude': tl['longitude'], 'source': tl['source']}
     lat = exif.get('latitude') if exif.get('latitude') is not None else tk.get('latitude')
     lon = exif.get('longitude') if exif.get('longitude') is not None else tk.get('longitude')
     geo = geocoder.reverse(lat, lon) if lat is not None and lon is not None else None
@@ -83,6 +90,9 @@ def process_one(path, catalog, existing_by_hash, takeout_index, geocoder):
         shutil.move(str(path), str(target))
 
     rec = create_record(path, ROOT, exif, tk, geo, sha, make_web_path(target, ROOT), converted_from)
+    if tl:
+        rec['location_source'] = tl['source']
+        rec['timeline_match'] = tl
     if resolved:
         rec['status'] = 'resolved'
     elif lat is not None and lon is not None:
@@ -102,14 +112,18 @@ def main():
     existing_by_hash = {p.get('sha256'): p for p in catalog.get('photos', []) if p.get('sha256')}
     takeout_index = build_takeout_index(TAKEOUT)
     geocoder = Geocoder(CFG['geocoder'], ROOT)
+    tl_cfg = CFG.get('google_timeline', {})
+    timeline = Timeline(ROOT / tl_cfg.get('file', 'google_takeout/Timeline.json'),
+                        tl_cfg.get('timezone_offset', '-03:00'))
     files = [p for p in INPUT.rglob('*') if p.is_file() and p.suffix.lower() in IMAGE_EXTS]
     print(f'Fotos encontradas: {len(files)}')
+    print(f'Google Timeline: {len(timeline.items)} segmentos com coordenadas')
     print(f'Google Takeout: {takeout_index["json_count"]} JSON(s), {takeout_index["record_count"]} registro(s) indexado(s)')
     added = dupes = pending = coordinates_only = errors = 0
     for i, path in enumerate(files, 1):
         print(f'[{i}/{len(files)}] {path.name}')
         try:
-            status, rec = process_one(path, catalog, existing_by_hash, takeout_index, geocoder)
+            status, rec = process_one(path, catalog, existing_by_hash, takeout_index, geocoder, timeline)
             if status == 'duplicate':
                 dupes += 1
                 print('  DUPLICATA -> arquivada')

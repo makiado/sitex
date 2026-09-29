@@ -4,6 +4,7 @@ from pathlib import Path
 import sys, shutil
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from core import *
+from google_timeline import Timeline
 
 ROOT = Path(__file__).resolve().parents[1]
 CFG = load_json(ROOT/'config.json', {})
@@ -30,6 +31,8 @@ def main():
     catalog = load_json(CATALOG_PATH, {'version': 2, 'photos': []})
     idx = build_takeout_index(TAKEOUT)
     geocoder = Geocoder(CFG['geocoder'], ROOT)
+    tl_cfg = CFG.get('google_timeline', {})
+    timeline = Timeline(ROOT / tl_cfg.get('file', 'google_takeout/Timeline.json'), tl_cfg.get('timezone_offset', '-03:00'))
     print(f'Google Takeout: {idx["json_count"]} JSON(s), {idx["record_count"]} registro(s) indexado(s)')
     matched = gps = resolved = moved = skipped = errors = 0
     for rec in catalog.get('photos', []):
@@ -37,16 +40,25 @@ def main():
             # We deliberately revisit every record so a later Takeout export can enrich an older catalog.
             fake = Path(rec.get('filename') or '')
             tk = takeout_info(fake, idx)
-            if not tk.get('json_path'):
-                continue
-            matched += 1
+            if tk.get('json_path'):
+                matched += 1
             if tk.get('date') and not rec.get('date'):
                 rec['date'] = tk['date'].isoformat(); rec['year'] = tk['date'].year
+            # Preserve reliable GPS already stored in the catalog.
+            if rec.get('latitude') is not None and rec.get('longitude') is not None:
+                continue
+            tl = None
+            if tk.get('latitude') is None or tk.get('longitude') is None:
+                tl = timeline.resolve(rec.get('date') or tk.get('date'))
+                if tl:
+                    tk = {**tk, 'latitude': tl['latitude'], 'longitude': tl['longitude'], 'source': tl['source']}
             if tk.get('latitude') is None or tk.get('longitude') is None:
                 continue
+            if tl:
+                rec['timeline_match'] = tl
             gps += 1
             rec['latitude'] = tk['latitude']; rec['longitude'] = tk['longitude']
-            rec['location_source'] = f'takeout:{tk.get("source")}'
+            rec['location_source'] = tl['source'] if tl else f'takeout:{tk.get("source")}'
             rec['metadata_json'] = tk.get('json_path')
             geo = geocoder.reverse(tk['latitude'], tk['longitude'])
             if not geo:
@@ -78,6 +90,7 @@ def main():
     save_json(CATALOG_PATH, catalog)
     print('\nRESULTADO')
     print('JSON correspondente:', matched)
+    print('Segmentos Timeline :', len(timeline.items))
     print('com GPS            :', gps)
     print('resolvidas         :', resolved)
     print('arquivos movidos   :', moved)

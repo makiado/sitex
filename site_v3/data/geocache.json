@@ -4039,5 +4039,41 @@
     "state_code": "BR-AP",
     "city": "Macapá",
     "postcode": "68900-091"
+  },
+  "-23.68474,-45.43142": {
+    "display_name": "Avenida Miramar, Jardim dos Sindicatos, Jardim Brasil, Porto Novo, Caraguatatuba, São Paulo, Região Sudeste, 11666-530, Brasil",
+    "country": "Brasil",
+    "country_code": "BR",
+    "state": "São Paulo",
+    "state_code": "BR-SP",
+    "city": "Caraguatatuba",
+    "postcode": "11666-530"
+  },
+  "-31.40192,-52.69661": {
+    "display_name": "DTCEA-CGU / CINDACTA II, km 120.5, Estrada das Tropas, Cerro das Tropas, Primeiro Distrito, Canguçu, Rio Grande do Sul, Região Sul, 96600-000, Brasil",
+    "country": "Brasil",
+    "country_code": "BR",
+    "state": "Rio Grande do Sul",
+    "state_code": "BR-RS",
+    "city": "Canguçu",
+    "postcode": "96600-000"
+  },
+  "-23.62819,-45.39559": {
+    "display_name": "Complexo Turístico do Mirante do Camaroeiro, Rua do Mirante do Camoreiro, Jardim Camburi, Ipiranga, Caraguatatuba, São Paulo, Região Sudeste, 11661-090, Brasil",
+    "country": "Brasil",
+    "country_code": "BR",
+    "state": "São Paulo",
+    "state_code": "BR-SP",
+    "city": "Caraguatatuba",
+    "postcode": "11661-090"
+  },
+  "-23.62325,-45.39995": {
+    "display_name": "Avenida Arthur da Costa Filho, Balneário Forest, Ipiranga, Caraguatatuba, São Paulo, Região Sudeste, 11660-010, Brasil",
+    "country": "Brasil",
+    "country_code": "BR",
+    "state": "São Paulo",
+    "state_code": "BR-SP",
+    "city": "Caraguatatuba",
+    "postcode": "11660-010"
   }
 }

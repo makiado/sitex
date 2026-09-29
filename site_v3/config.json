@@ -16,5 +16,9 @@
     "language": "pt-BR",
     "delay_seconds": 1.05,
     "cache_file": "data/geocache.json"
+  },
+  "google_timeline": {
+    "file": "google_takeout/Timeline.json",
+    "timezone_offset": "-03:00"
   }
 }
