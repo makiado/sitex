@@ -3589,5 +3589,455 @@
     "state_code": "BR-RS",
     "city": "Camaquã",
     "postcode": "96781-056"
+  },
+  "-0.86670,-78.91570": {
+    "display_name": "Kirutwa, Circuito Cráter Quilotoa 10.5 km, Jatalo Quilotoa, Chugchillan, Sigchos, Cotopaxi, 050456, Equador",
+    "country": "Equador",
+    "country_code": "EC",
+    "state": "Cotopaxi",
+    "state_code": "EC-X",
+    "city": "Chugchillan",
+    "postcode": "050456"
+  },
+  "-0.22080,-78.50770": {
+    "display_name": "Olmedo, San Blas, San Marcos, Centro Histórico, Quito, Distrito Metropolitano de Quito, Pichincha, 170403, Equador",
+    "country": "Equador",
+    "country_code": "EC",
+    "state": "Pichincha",
+    "state_code": "EC-P",
+    "city": "Quito",
+    "postcode": "170403"
+  },
+  "-0.22100,-78.50700": {
+    "display_name": "Free tour, Olmedo, San Blas, San Marcos, Centro Histórico, Quito, Distrito Metropolitano de Quito, Pichincha, 170403, Equador",
+    "country": "Equador",
+    "country_code": "EC",
+    "state": "Pichincha",
+    "state_code": "EC-P",
+    "city": "Quito",
+    "postcode": "170403"
+  },
+  "-0.21700,-78.50510": {
+    "display_name": "DISPLAST, N11-84, Avenida 10 de Agosto, San Blas, San Marcos, Centro Histórico, Quito, Distrito Metropolitano de Quito, Pichincha, 170403, Equador",
+    "country": "Equador",
+    "country_code": "EC",
+    "state": "Pichincha",
+    "state_code": "EC-P",
+    "city": "Quito",
+    "postcode": "170403"
+  },
+  "-12.02250,-77.10890": {
+    "display_name": "Calle Corpac, Bocanegra, Callao, Lima Metropolitana, Callao, 07031, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Callao",
+    "state_code": "PE-CAL",
+    "city": "Callao",
+    "postcode": "07031"
+  },
+  "-13.52080,-71.97620": {
+    "display_name": "Rosario, Avenida El Sol, Cuzco, Distrito de Cusco, Cusco, 00800, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Cuzco",
+    "postcode": "00800"
+  },
+  "-13.52290,-71.97930": {
+    "display_name": "El Olivo, 470, Pavitos, Cuzco, Distrito de Cusco, Cusco, 08001, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Cuzco",
+    "postcode": "08001"
+  },
+  "-13.51210,-71.98410": {
+    "display_name": "Mundo viajero saphy, Saphi, San Cristóbal, Mollococha, Cuzco, Distrito de Cusco, Cusco, 08001, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Cuzco",
+    "postcode": "08001"
+  },
+  "-13.15420,-72.52580": {
+    "display_name": "Municipalidad de Machupicchu, Calle Collasuyo, Distrito de Machu Picchu, Machupicchu Pueblo, Machupicchu, Urubamba, Cusco, 08681, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Machupicchu",
+    "postcode": "08681"
+  },
+  "-13.15430,-72.52760": {
+    "display_name": "Avenida Hermanos Ayar, Distrito de Machu Picchu, Machupicchu Pueblo, Machupicchu, Urubamba, Cusco, 08681, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Machupicchu",
+    "postcode": "08681"
+  },
+  "-13.15510,-72.52650": {
+    "display_name": "Hotel Horizonte, 503-H, Avenida Hermanos Ayar, Distrito de Machu Picchu, Machupicchu Pueblo, Machupicchu, Urubamba, Cusco, 08681, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Machupicchu",
+    "postcode": "08681"
+  },
+  "-13.16430,-72.54150": {
+    "display_name": "Carretera Hiram Bingham, Intihuatana, Machupicchu, Urubamba, Cusco, 08680, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Machupicchu",
+    "postcode": "08680"
+  },
+  "-13.16350,-72.54200": {
+    "display_name": "Carretera Hiram Bingham, Machupicchu Pueblo, Machupicchu, Urubamba, Cusco, 08680, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Machupicchu",
+    "postcode": "08680"
+  },
+  "-13.16510,-72.54340": {
+    "display_name": "Circuit 1, San Miguel, Intihuatana, Machupicchu, Urubamba, Cusco, 08680, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Machupicchu",
+    "postcode": "08680"
+  },
+  "-13.16490,-72.54390": {
+    "display_name": "Ciudadela de Machu Picchu, Circuit 1, San Miguel, Intihuatana, Machupicchu, Urubamba, Cusco, 08680, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Machupicchu",
+    "postcode": "08680"
+  },
+  "-13.16500,-72.54370": {
+    "display_name": "Ciudadela de Machu Picchu, Circuit 1, San Miguel, Intihuatana, Machupicchu, Urubamba, Cusco, 08680, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Machupicchu",
+    "postcode": "08680"
+  },
+  "-13.16510,-72.54450": {
+    "display_name": "Puerta de la Ciudad, Circuit 1, San Miguel, Intihuatana, Machupicchu, Urubamba, Cusco, 08680, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Machupicchu",
+    "postcode": "08680"
+  },
+  "-13.16350,-72.54530": {
+    "display_name": "Templo Principal, Circuit 3, San Miguel, Intihuatana, Machupicchu, Urubamba, Cusco, 08680, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Machupicchu",
+    "postcode": "08680"
+  },
+  "-13.16290,-72.54460": {
+    "display_name": "Circuit 3, San Miguel, Intihuatana, Machupicchu, Urubamba, Cusco, 08680, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Machupicchu",
+    "postcode": "08680"
+  },
+  "-13.16360,-72.54480": {
+    "display_name": "Templo del Condor, Circuit 3, San Miguel, Intihuatana, Machupicchu, Urubamba, Cusco, 08680, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Machupicchu",
+    "postcode": "08680"
+  },
+  "-13.16130,-72.53900": {
+    "display_name": "Museo Manuel Chávez Ballon, Carretera Hiram Bingham, Machupicchu Pueblo, Machupicchu, Urubamba, Cusco, 08681, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Machupicchu",
+    "postcode": "08681"
+  },
+  "-13.87000,-71.30570": {
+    "display_name": "Sendero a Valle Rojo, Cusipata, Quispicanchi, Cusco, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Cusipata",
+    "postcode": null
+  },
+  "-13.86800,-71.30300": {
+    "display_name": "Rainbow Mountain, Sendero a Valle Rojo, Cusipata, Quispicanchi, Cusco, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Cusipata",
+    "postcode": null
+  },
+  "-13.86860,-71.30390": {
+    "display_name": "Rainbow Mountain, Sendero a Valle Rojo, Cusipata, Quispicanchi, Cusco, Peru",
+    "country": "Peru",
+    "country_code": "PE",
+    "state": "Cusco",
+    "state_code": "PE-CUS",
+    "city": "Cusipata",
+    "postcode": null
+  },
+  "-16.49760,-68.16140": {
+    "display_name": "Avenida Utapulpera, Chualluma, Max Paredes, La Paz, Provincia Pedro Domingo Murillo, La Paz, Bolívia",
+    "country": "Bolívia",
+    "country_code": "BO",
+    "state": "La Paz",
+    "state_code": "BO-L",
+    "city": "La Paz",
+    "postcode": null
+  },
+  "-16.49760,-68.16090": {
+    "display_name": "Mural libertad, Avenida Utapulpera, Chualluma, Max Paredes, La Paz, Provincia Pedro Domingo Murillo, La Paz, Bolívia",
+    "country": "Bolívia",
+    "country_code": "BO",
+    "state": "La Paz",
+    "state_code": "BO-L",
+    "city": "La Paz",
+    "postcode": null
+  },
+  "-20.48150,-66.83750": {
+    "display_name": "Museo Abierto del Ferrocarril, Camino Uyuni-Vinto K, Uyuni, Antonio Quijarro, Potosí, Bolívia",
+    "country": "Bolívia",
+    "country_code": "BO",
+    "state": "Potosí",
+    "state_code": "BO-P",
+    "city": "Uyuni",
+    "postcode": null
+  },
+  "-20.24320,-67.62540": {
+    "display_name": "Mirador Plaza 1 de Agosto, Ruta Salar de Uyuni-Tanil Vinto-Isla Incahuasi, Municipio Colcha K, Provincia Nor Lípez, Potosí, Bolívia",
+    "country": "Bolívia",
+    "country_code": "BO",
+    "state": "Potosí",
+    "state_code": "BO-P",
+    "city": "Municipio Colcha K",
+    "postcode": null
+  },
+  "-20.45870,-67.57670": {
+    "display_name": "Ruta Salar de Uyuni: Tanil Vinto-Isla Incahuasi, Municipio Colcha K, Provincia Nor Lípez, Potosí, Bolívia",
+    "country": "Bolívia",
+    "country_code": "BO",
+    "state": "Potosí",
+    "state_code": "BO-P",
+    "city": "Municipio Colcha K",
+    "postcode": null
+  },
+  "-20.45850,-67.57610": {
+    "display_name": "Ruta Salar de Uyuni: Tanil Vinto-Isla Incahuasi, Municipio Colcha K, Provincia Nor Lípez, Potosí, Bolívia",
+    "country": "Bolívia",
+    "country_code": "BO",
+    "state": "Potosí",
+    "state_code": "BO-P",
+    "city": "Municipio Colcha K",
+    "postcode": null
+  },
+  "-20.45860,-67.57570": {
+    "display_name": "Ruta Salar de Uyuni: Tanil Vinto-Isla Incahuasi, Municipio Colcha K, Provincia Nor Lípez, Potosí, Bolívia",
+    "country": "Bolívia",
+    "country_code": "BO",
+    "state": "Potosí",
+    "state_code": "BO-P",
+    "city": "Municipio Colcha K",
+    "postcode": null
+  },
+  "-20.85820,-67.71250": {
+    "display_name": "San Juan, Municipio Colcha K, Provincia Nor Lípez, Potosí, Bolívia",
+    "country": "Bolívia",
+    "country_code": "BO",
+    "state": "Potosí",
+    "state_code": "BO-P",
+    "city": "Municipio Colcha K",
+    "postcode": null
+  },
+  "-21.02410,-67.99210": {
+    "display_name": "Camino San Juan-Avaroa, Canton Chiguana, Municipio San Pedro de Quemes, Provincia Nor Lípez, Potosí, Bolívia",
+    "country": "Bolívia",
+    "country_code": "BO",
+    "state": "Potosí",
+    "state_code": "BO-P",
+    "city": "Municipio San Pedro de Quemes",
+    "postcode": null
+  },
+  "-21.36010,-68.02610": {
+    "display_name": "Mirador Volcan Ollague, Camino Avaroa-Alota, Avaroa, Canton Pelcoya, Municipio San Pedro de Quemes, Provincia Nor Lípez, Potosí, Bolívia",
+    "country": "Bolívia",
+    "country_code": "BO",
+    "state": "Potosí",
+    "state_code": "BO-P",
+    "city": "Municipio San Pedro de Quemes",
+    "postcode": null
+  },
+  "-21.57530,-68.04070": {
+    "display_name": "La Nevada Restaurant, Camino a Laguna Hedionda, Municipio Colcha K, Provincia Nor Lípez, Potosí, Bolívia",
+    "country": "Bolívia",
+    "country_code": "BO",
+    "state": "Potosí",
+    "state_code": "BO-P",
+    "city": "Municipio Colcha K",
+    "postcode": null
+  },
+  "-22.43490,-67.75710": {
+    "display_name": "Sol do Amanhã, Geotermas Sol de Mañana, Planta Geotérmica Laguna Colorada, Municipio San Pablo de Lipez, Provincia Sur Lípez, Potosí, Bolívia",
+    "country": "Bolívia",
+    "country_code": "BO",
+    "state": "Potosí",
+    "state_code": "BO-P",
+    "city": "Municipio San Pablo de Lipez",
+    "postcode": null
+  },
+  "-22.46760,-68.92320": {
+    "display_name": "Balmaceda, Calama, Provincia de El Loa, Região de Antofagasta, 1390726, Chile",
+    "country": "Chile",
+    "country_code": "CL",
+    "state": "Região de Antofagasta",
+    "state_code": "CL-AN",
+    "city": "Calama",
+    "postcode": "1390726"
+  },
+  "-20.27610,-54.47630": {
+    "display_name": "Jaraguari, Mato Grosso do Sul, Região Centro-Oeste, Brasil",
+    "country": "Brasil",
+    "country_code": "BR",
+    "state": "Mato Grosso do Sul",
+    "state_code": "BR-MS",
+    "city": "Jaraguari",
+    "postcode": null
+  },
+  "-20.45830,-54.58820": {
+    "display_name": "Shopping Campo Grande, 4909, Avenida Afonso Pena, Santa Fé, Campo Grande, Mato Grosso do Sul, Região Centro-Oeste, 79040-010, Brasil",
+    "country": "Brasil",
+    "country_code": "BR",
+    "state": "Mato Grosso do Sul",
+    "state_code": "BR-MS",
+    "city": "Campo Grande",
+    "postcode": "79040-010"
+  },
+  "-34.60386,-58.38228": {
+    "display_name": "400, Cerrito, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1043AAL, Argentina",
+    "country": "Argentina",
+    "country_code": "AR",
+    "state": "Ciudad Autónoma de Buenos Aires",
+    "state_code": "AR-C",
+    "city": "Buenos Aires",
+    "postcode": "C1043AAL"
+  },
+  "-34.59011,-58.37035": {
+    "display_name": "Avenida Comodoro Py, Villa 31, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1104BEN, Argentina",
+    "country": "Argentina",
+    "country_code": "AR",
+    "state": "Ciudad Autónoma de Buenos Aires",
+    "state_code": "AR-C",
+    "city": "Buenos Aires",
+    "postcode": "C1104BEN"
+  },
+  "-23.58280,-46.66230": {
+    "display_name": "Trilha 6 km, Moema, São Paulo, Região Sudeste, 04094-050, Brasil",
+    "country": "Brasil",
+    "country_code": "BR",
+    "state": "São Paulo",
+    "state_code": "BR-SP",
+    "city": "São Paulo",
+    "postcode": "04094-050"
+  },
+  "-23.54410,-46.63400": {
+    "display_name": "32, Largo São Bento, Glicério, Sé, São Paulo, Região Sudeste, 01029-010, Brasil",
+    "country": "Brasil",
+    "country_code": "BR",
+    "state": "São Paulo",
+    "state_code": "BR-SP",
+    "city": "São Paulo",
+    "postcode": "01029-010"
+  },
+  "-31.40380,-52.68600": {
+    "display_name": "E.M.E.F. Adriano Brockmann Mota, 231, Rua Adriano Brockmann Motta, Vila Fonseca, Primeiro Distrito, Canguçu, Rio Grande do Sul, Região Sul, 96600-000, Brasil",
+    "country": "Brasil",
+    "country_code": "BR",
+    "state": "Rio Grande do Sul",
+    "state_code": "BR-RS",
+    "city": "Canguçu",
+    "postcode": "96600-000"
+  },
+  "31.62491,-7.99232": {
+    "display_name": "Avenue Fatima Zohra, Mechouar Kasbah ⵎⵉⵛⵡⴰⵔ ⵇⴰⵚⴱⴰ المشور القصبة, Medina ⵎⴷⵉⵏⴰ المدينة, Arrondissement de Marrakech-Medina مقاطعة مراكش المدينة, Marraquexe, Pachalik de Marrakech, Marraquexe, Marrakech-Safi ⵎⵕⵕⴰⴽⵛ-ⴰⵙⴼⵉ مراكش-أسفي, 40034, Marrocos",
+    "country": "Marrocos",
+    "country_code": "MA",
+    "state": "Marrakech-Safi ⵎⵕⵕⴰⴽⵛ-ⴰⵙⴼⵉ مراكش-أسفي",
+    "state_code": "MA-07",
+    "city": "Marraquexe",
+    "postcode": "40034"
+  },
+  "31.04700,-7.12943": {
+    "display_name": "RP1506, Ksar d'Aït-Ben-Haddou, Tabouraht ⵜⴰⴱⵓⵕⴰⵃⵜ, Ait Zineb ⴰⵢⵜ ⵣⵉⵏⴱ آيت زينب, caïdat de Amerzgane, Cercle d'Amerzgane دائرة أمرزكان, Province d'Ouarzazate ⵜⴰⵙⴳⴰ ⵏ ⵡⴰⵔⵣⴰⵣⴰⵜ إقليم ورززات, Drâa-Tafilalet ⴷⴰⵔⵄⴰ-ⵜⴰⴼⵉⵍⴰⵍⵜ درعة تافيلالت, 45122, Marrocos",
+    "country": "Marrocos",
+    "country_code": "MA",
+    "state": "Drâa-Tafilalet ⴷⴰⵔⵄⴰ-ⵜⴰⴼⵉⵍⴰⵍⵜ درعة تافيلالت",
+    "state_code": "MA-08",
+    "city": "caïdat de Amerzgane",
+    "postcode": "45122"
+  },
+  "-23.00158,-42.00457": {
+    "display_name": "Rua das Prainhas, Arraial do Cabo, Rio de Janeiro, Região Sudeste, 28930-000, Brasil",
+    "country": "Brasil",
+    "country_code": "BR",
+    "state": "Rio de Janeiro",
+    "state_code": "BR-RJ",
+    "city": "Arraial do Cabo",
+    "postcode": "28930-000"
+  },
+  "-22.93070,-42.86300": {
+    "display_name": "Rua F, Bosque de Itapeba Residencial, São José do Imbassaí, Maricá, Rio de Janeiro, Região Sudeste, 24914-440, Brasil",
+    "country": "Brasil",
+    "country_code": "BR",
+    "state": "Rio de Janeiro",
+    "state_code": "BR-RJ",
+    "city": "Maricá",
+    "postcode": "24914-440"
+  },
+  "31.31876,-7.37918": {
+    "display_name": "RN9, Imouzzer Tichka, Zerkten زرقطن, Caïdat de Touama, Cercle de Touama, Province d'Al Haouz ⵜⴰⵙⴳⴰ ⵏ ⵍⵃⵓⵣ إقليم الحوز, Marrakech-Safi ⵎⵕⵕⴰⴽⵛ-ⴰⵙⴼⵉ مراكش-أسفي, Marrocos",
+    "country": "Marrocos",
+    "country_code": "MA",
+    "state": "Marrakech-Safi ⵎⵕⵕⴰⴽⵛ-ⴰⵙⴼⵉ مراكش-أسفي",
+    "state_code": "MA-07",
+    "city": "Zerkten زرقطن",
+    "postcode": null
+  },
+  "0.03063,-51.05240": {
+    "display_name": "Shopping Popular, Rua Rio Maracá, Central, Macapá, Amapá, Região Norte, 68900-091, Brasil",
+    "country": "Brasil",
+    "country_code": "BR",
+    "state": "Amapá",
+    "state_code": "BR-AP",
+    "city": "Macapá",
+    "postcode": "68900-091"
   }
 }

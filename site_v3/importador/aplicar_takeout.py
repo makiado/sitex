@@ -1,3 +1,5 @@
+from __future__ import annotations
+from typing import Optional
 from pathlib import Path
 import sys, shutil
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -11,13 +13,13 @@ PEND = ROOT/CFG['folders']['pending']
 TAKEOUT = ROOT/CFG['folders']['takeout']
 
 
-def actual_path_from_web(root: Path, web_path: str | None):
+def actual_path_from_web(root: Path, web_path: Optional[str]):
     if not web_path:
         return None
     return root / web_path.lstrip('/').replace('/', root.anchor if root.anchor else '/') if False else web_path.lstrip('/')
 
 
-def clean_rel(root: Path, web_path: str | None):
+def clean_rel(root: Path, web_path: Optional[str]):
     if not web_path:
         return None
     rel = web_path.lstrip('/').replace('/', '\\') if __import__('os').name == 'nt' else web_path.lstrip('/')
